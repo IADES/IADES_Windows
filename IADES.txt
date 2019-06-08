@@ -1,7 +1,17 @@
+<<<<<<< HEAD
+sunck is a good man!
+cascsa
+=======
 sunck is a nice man!
+<<<<<<< HEAD
 
 
 hihi
 sunck is a good man!
 
 jojiojlp[;l
+=======
+sunck is a good man!
+>>>>>>> efa8f64e240b8e7f7df6527b6cd715edab099790
+uykfryt
+>>>>>>> 16b7be12ef02892386f69f9097b1cc72822d46d4
